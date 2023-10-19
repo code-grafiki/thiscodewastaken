@@ -11,7 +11,7 @@ int main() {
     scanf("%lf", &num2);
 
     // Sum the numbers
-    
+    sum = num2+num1;
 
     // Output
     printf("The sum of %.2lf and %.2lf is %.2lf\n", num1, num2, sum);
